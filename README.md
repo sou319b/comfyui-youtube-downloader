@@ -7,6 +7,12 @@ A custom ComfyUI node for downloading YouTube videos and audio with precise reso
 
 ![ComfyUI YouTube Downloader](https://img.shields.io/badge/ComfyUI-Custom%20Node-orange)
 
+## Preview
+
+![ComfyUI YouTube Downloader Node](comfyui-youtube-downloader-node.png)
+
+*The YouTube Downloader node interface in ComfyUI*
+
 ## Features
 
 - **Video Download**: Download YouTube videos in MP4, WebM, or MKV format
