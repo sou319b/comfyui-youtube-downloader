@@ -13,7 +13,7 @@ Documentation = "https://github.com/sou319b/comfyui-youtube-downloader#readme"
 "Bug Tracker" = "https://github.com/sou319b/comfyui-youtube-downloader/issues"
 
 [tool.comfy]
-PublisherId = ""  # TODO: Fill in Publisher ID from Comfy Registry Website
+PublisherId = "pukurusu1234"  # TODO: Fill in Publisher ID from Comfy Registry Website
 DisplayName = "YouTube Downloader"
 Icon = ""  # SVG, PNG, JPG or GIF (MAX. 800x400px)
 includes = []
