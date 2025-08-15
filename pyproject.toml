@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-youtube-downloader"
 description = "A custom ComfyUI node for downloading YouTube videos and audio with precise resolution control"
-version = "1.0.0"
+version = "1.0.1"
 license = { file = "LICENSE" }
 dependencies = [
     "yt-dlp>=2023.12.30"
