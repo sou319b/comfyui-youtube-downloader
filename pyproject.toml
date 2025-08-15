@@ -1,0 +1,19 @@
+[project]
+name = "comfyui-youtube-downloader"
+description = "A custom ComfyUI node for downloading YouTube videos and audio with precise resolution control"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = [
+    "yt-dlp>=2023.12.30"
+]
+
+[project.urls]
+Repository = "https://github.com/sou319b/comfyui-youtube-downloader"
+Documentation = "https://github.com/sou319b/comfyui-youtube-downloader#readme"
+"Bug Tracker" = "https://github.com/sou319b/comfyui-youtube-downloader/issues"
+
+[tool.comfy]
+PublisherId = ""  # TODO: Fill in Publisher ID from Comfy Registry Website
+DisplayName = "YouTube Downloader"
+Icon = ""  # SVG, PNG, JPG or GIF (MAX. 800x400px)
+includes = []

@@ -1,0 +1,23 @@
+{
+    "title": "ComfyUI YouTube Downloader",
+    "reference": "https://github.com/sou319b/comfyui-youtube-downloader",
+    "files": [
+        "https://github.com/sou319b/comfyui-youtube-downloader"
+    ],
+    "install_type": "git-clone",
+    "description": "A custom ComfyUI node for downloading YouTube videos and audio with precise resolution control. Supports 1080p/720p/480p/360p, normal/short videos, MP4/WebM/MKV formats, and audio extraction (MP3/M4A/OPUS/WAV).",
+    "author": "sou319b",
+    "tags": [
+        "video",
+        "youtube",
+        "download",
+        "audio",
+        "converter"
+    ],
+    "python_dependencies": [
+        "yt-dlp>=2023.12.30"
+    ],
+    "system_dependencies": [
+        "ffmpeg"
+    ]
+}
